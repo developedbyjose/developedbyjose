@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Jose
 
 
-🚀 **Full Stack Developer** passionate about building **productivity apps** and **scalable web applications** using **Node.js** and **Spring Boot** to simplify everyday life.
+🚀 **Software Engineer** passionate about building **productivity apps** and **scalable web applications** using **Node.js** and **Spring Boot** to simplify everyday life.
 
 ☁️ **Currently learning AWS Cloud** — how to properly integrate and deploy applications in the cloud, especially on AWS.  
 🎯 Aspiring **Cloud Engineer**.
