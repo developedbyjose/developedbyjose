@@ -25,7 +25,7 @@ Full-stack developer · Building things for the web
 | Badge | Certification | Status |
 |-------|--------------|--------|
 | ☁️ | GCP — Generative AI Leader | ✅ Certified |
-| ☁️ | GCP — Digital Leader | ✅ Certified |
+| ☁️ | GCP — Cloud Digital Leader | ✅ Certified |
 | 📖 | GCP — Associate Cloud Engineer | 🔄 In progress |
 
 ---
