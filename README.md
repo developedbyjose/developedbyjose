@@ -1,57 +1,36 @@
-<!-- Jose's GitHub Profile README -->
+# 👋 Hi, I'm Jose
 
-# 👋 Hi, I’m Jose
+Full-stack developer · Building things for the web
 
+### 🖥️ Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-🚀 **Software Engineer** passionate about building **productivity apps** and **scalable web applications** using **Node.js** and **Spring Boot** to simplify everyday life.
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-☁️ **Currently learning AWS Cloud** — how to properly integrate and deploy applications in the cloud, especially on AWS.  
-🎯 Aspiring **Cloud Engineer**.
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
----
-
-### 🛠 Tech Stack
-
-- **Languages & Frameworks:**  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-- **Databases:**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/-NoSQL_(MongoDB)-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-- **Tools & Platforms:**  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### ☁️ Cloud
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 
-### 📌 Pinned Projects
-
-Here are a few projects I’m proud of:
-
-- 🔧 [**desktop-jp-translator**](https://github.com/developedbyjose/desktop-jp-translator#)  
-  A desktop app built with Electron.js that captures on-screen text from any application and provides real-time translations helping users follow conversations in languages like Japanese  
-  `HTML, CSS, Javascript, electron.js`
-
----
-
-### 📫 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/jose-gerald-lumbao-2a1077215/)  
-<!-- - [Portfolio](https://your-portfolio.com)  --> 
-- 📧 Email: josegeraldlumbao0307@gmail.com
+### 🏅 Certifications
+| Badge | Certification | Status |
+|-------|--------------|--------|
+| ☁️ | GCP — Generative AI Leader | ✅ Certified |
+| ☁️ | GCP — Digital Leader | ✅ Certified |
+| 📖 | GCP — Associate Cloud Engineer | 🔄 In progress |
 
 ---
 
-### ✨ Fun Fact
-
-I enjoy turning small ideas into useful, real-world tools that help simplify daily workflows.
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-gerald-lumbao-2a1077215)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:josegeraldlumbao0307@email.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://developedbyjose.vercel.app/)
